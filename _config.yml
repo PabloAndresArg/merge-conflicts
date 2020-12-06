@@ -6,11 +6,10 @@ description: "A resume template for Jekyll and GitHub Pages sites."
 markdown: kramdown
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compresse
 
-# Resume settings
+# Resume setting
 resume_avatar:                  "true"
-resume_name:                    "GitHub Teacher"
 resume_title:                   "Professional Trainer"
 resume_contact_email:           "services@github.com"
 resume_contact_telephone:       "1-(877)-448-4820"
